@@ -1,0 +1,1 @@
+python predict.py --input flowers/valid/24/image_06847.jpg --check_point vgg_checkpoint_091717.pth --gpu --plot_predictions --category_names cat_to_name.json --top_k 3
